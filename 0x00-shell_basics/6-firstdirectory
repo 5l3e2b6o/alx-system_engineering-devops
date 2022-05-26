@@ -1,0 +1,4 @@
+#!/bin/bash
+touch
+/tmp/my_first_directory/
+
